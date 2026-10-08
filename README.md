@@ -105,11 +105,17 @@ I have hands-on experience with **Flask and other Python frameworks**, including
 - **Karachi Shipyard & Engineering Works Ltd.** — Attendance system development and Oracle SQL/database tasks.
 - **Bahria University Developer Society** — Leadership, project coordination, and campus-facing software initiatives.
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - 🎓 Bachelor's Degree in Software Engineering — Bahria University Karachi Campus
-- 🐍 Introduction to Python · 📊 Fundamentals of Data Science · 📈 Power BI
+- 🎓 Master's in Software Engineering — Bahria University Karachi Campus *(In Progress)*
 
+## 📜 Certifications
+
+- 🐍 Introduction to Python · 📊 Fundamentals of Data Science · 📈 Power BI
+- 🛡️ Penetration Testing & Cyber Security Fundamentals — Apprise Cyber
+- 🔐 Cyber Security Essentials — Cisco
+- 🤖 Data Science & Analytics (Python, Power BI, ML) — DataCamp
 ---
 
 <div align="center">
